@@ -1,2 +1,2 @@
-# Clock
+# ;)
 This is simple clock using python...
